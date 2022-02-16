@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: 2012 MIT Student Projects
+parent_type: SupplementalResourceSection
 parent_uid: 831df858-8530-1907-9c4d-adae1aacd80b
 title: Fluid Flow in Pipes and Rivers
 uid: d00112fc-7e60-b424-8966-e4a1d04e59fe

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: 2015 MIT Student Projects
+parent_type: SupplementalResourceSection
 parent_uid: c97327e3-f58e-5c5e-cfe5-c9199c8b02d5
 title: Examination of Electrochemical Impedance
 uid: 4dc08721-54c1-afa2-7af0-f47d45e865a0

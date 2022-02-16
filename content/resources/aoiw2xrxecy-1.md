@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-3-004-visualizing-materials-science-fall-2017/f1d25e6fc4097eaec7973b4fdf5ee1b2_aOiW2XRxEcY.pdf
+file: /media/courses/res-3-004-visualizing-materials-science-fall-2017/f1d25e6fc4097eaec7973b4fdf5ee1b2_aOiW2XRxEcY.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: f1d25e6f-c409-7eae-c797-3b4fdf5ee1b2

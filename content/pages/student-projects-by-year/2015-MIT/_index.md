@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: SupplementalResourceSection
 parent_title: Student Projects by Year
+parent_type: SupplementalResourceSection
 parent_uid: 912fc084-9e83-2bfd-38af-df58a71a8917
 title: 2015 MIT Student Projects
 uid: c97327e3-f58e-5c5e-cfe5-c9199c8b02d5

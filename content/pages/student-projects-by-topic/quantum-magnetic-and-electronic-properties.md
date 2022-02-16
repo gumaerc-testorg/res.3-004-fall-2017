@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Student Projects by Topic
+parent_type: SupplementalResourceSection
 parent_uid: f62d5df8-3934-2533-e022-8b16ea71313c
 title: Quantum, Magnetic, and Electronic Properties
 uid: daa1261b-8ee9-e138-1f02-05eb7571bd3a

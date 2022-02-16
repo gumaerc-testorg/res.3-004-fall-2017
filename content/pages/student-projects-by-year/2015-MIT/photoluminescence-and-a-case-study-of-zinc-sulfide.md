@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: 2015 MIT Student Projects
+parent_type: SupplementalResourceSection
 parent_uid: c97327e3-f58e-5c5e-cfe5-c9199c8b02d5
 title: Photoluminescence and a Case Study of Zinc Sulfide
 uid: 0d9859f9-49ef-8878-bc2a-4baaeddd19f8

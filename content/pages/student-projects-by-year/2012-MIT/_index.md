@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: SupplementalResourceSection
 parent_title: Student Projects by Year
+parent_type: SupplementalResourceSection
 parent_uid: 912fc084-9e83-2bfd-38af-df58a71a8917
 title: 2012 MIT Student Projects
 uid: 831df858-8530-1907-9c4d-adae1aacd80b

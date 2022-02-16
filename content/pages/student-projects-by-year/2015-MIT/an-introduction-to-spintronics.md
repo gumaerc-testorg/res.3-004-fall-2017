@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: 2015 MIT Student Projects
+parent_type: SupplementalResourceSection
 parent_uid: c97327e3-f58e-5c5e-cfe5-c9199c8b02d5
 title: An Introduction to Spintronics
 uid: 8f4e957a-aee9-4587-cb1c-232a9dd00e14

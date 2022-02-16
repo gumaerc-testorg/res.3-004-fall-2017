@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: 2012 MIT Student Projects
+parent_type: SupplementalResourceSection
 parent_uid: 831df858-8530-1907-9c4d-adae1aacd80b
 title: Modeling & Energy Analysis of Liquid Crystals
 uid: e6790370-a186-7a2c-6297-fed449a26281

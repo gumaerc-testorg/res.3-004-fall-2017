@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-3-004-visualizing-materials-science-fall-2017/966c13d6414b1e859173139ac6e978ce_MITRES3_004F17_2017EPFL_moral_ca_300k.pdf
+file: /media/courses/res-3-004-visualizing-materials-science-fall-2017/966c13d6414b1e859173139ac6e978ce_MITRES3_004F17_2017EPFL_moral_ca_300k.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: Potential Energy Surfaces (Catalan Version) Transcript
 uid: 966c13d6-414b-1e85-9173-139ac6e978ce

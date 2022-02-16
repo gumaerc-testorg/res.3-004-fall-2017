@@ -1,7 +1,10 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: "2017 l'\xC9cole polytechnique f\xE9d\xE9rale de Lausanne (EPFL) Student\
   \ Projects"
+parent_type: SupplementalResourceSection
 parent_uid: 172a9af2-383b-aa0a-4e10-2ef1208f2781
 title: 2D Brillouin Zones
 uid: 6af86767-5646-cdae-ea8a-8a61675515d6

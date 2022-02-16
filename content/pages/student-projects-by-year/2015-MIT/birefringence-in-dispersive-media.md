@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: 2015 MIT Student Projects
+parent_type: SupplementalResourceSection
 parent_uid: c97327e3-f58e-5c5e-cfe5-c9199c8b02d5
 title: Birefringence in Dispersive Media
 uid: d38f6eba-15c3-d47c-af8b-1a9e1107a7c0

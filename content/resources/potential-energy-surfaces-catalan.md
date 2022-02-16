@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Potential Energy Surfaces
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Potential Energy Surfaces (Catalan Version)
 uid: 284a2b7c-06a2-0843-b405-d03518075fbd

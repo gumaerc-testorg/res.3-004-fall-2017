@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: 2012 MIT Student Projects
+parent_type: SupplementalResourceSection
 parent_uid: 831df858-8530-1907-9c4d-adae1aacd80b
 title: Hooke's Law in Cubic Solids
 uid: d81bc6cc-6217-d69c-e399-a1655dab00d2

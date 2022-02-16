@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-3-004-visualizing-materials-science-fall-2017/767078ad6fc00307d90aa958b0017037_2015_postel.nb
+file: /media/courses/res-3-004-visualizing-materials-science-fall-2017/767078ad6fc00307d90aa958b0017037_2015_postel.nb
 file_type: application/mathematica
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 2015 MIT Student Projects
+parent_type: SupplementalResourceSection
 resourcetype: Other
 title: 2015_postel.nb
 uid: 767078ad-6fc0-0307-d90a-a958b0017037

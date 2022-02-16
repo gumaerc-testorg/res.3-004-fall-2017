@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Student Projects by Topic
+parent_type: SupplementalResourceSection
 parent_uid: f62d5df8-3934-2533-e022-8b16ea71313c
 title: Experimental Techniques
 uid: 402b1ba0-3dd1-a8e3-7f78-9f8de895cded

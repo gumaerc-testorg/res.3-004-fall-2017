@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-3-004-visualizing-materials-science-fall-2017/cc91d29f0bf968e473e3ae95b16f7c4d_cFZaKWiBD6I.srt
+file: /media/courses/res-3-004-visualizing-materials-science-fall-2017/cc91d29f0bf968e473e3ae95b16f7c4d_cFZaKWiBD6I.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: cc91d29f-0bf9-68e4-73e3-ae95b16f7c4d

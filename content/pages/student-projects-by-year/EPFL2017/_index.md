@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: SupplementalResourceSection
 parent_title: Student Projects by Year
+parent_type: SupplementalResourceSection
 parent_uid: 912fc084-9e83-2bfd-38af-df58a71a8917
 title: "2017 l'\xC9cole polytechnique f\xE9d\xE9rale de Lausanne (EPFL) Student Projects"
 uid: 172a9af2-383b-aa0a-4e10-2ef1208f2781

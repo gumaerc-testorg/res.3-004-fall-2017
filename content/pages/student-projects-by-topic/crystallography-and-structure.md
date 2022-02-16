@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Student Projects by Topic
+parent_type: SupplementalResourceSection
 parent_uid: f62d5df8-3934-2533-e022-8b16ea71313c
 title: Crystallography and Structure
 uid: fbbb38c6-f4b8-04df-878f-a67586e06b71

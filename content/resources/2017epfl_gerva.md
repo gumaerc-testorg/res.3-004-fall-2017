@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-3-004-visualizing-materials-science-fall-2017/ce004f261fafc4ce3060a8899dbd06bf_2017EPFL_gerva.nb
+file: /media/courses/res-3-004-visualizing-materials-science-fall-2017/ce004f261fafc4ce3060a8899dbd06bf_2017EPFL_gerva.nb
 file_type: application/mathematica
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Student Projects by Year
+parent_type: SupplementalResourceSection
 resourcetype: Other
 title: 2017EPFL_gerva.nb
 uid: ce004f26-1faf-c4ce-3060-a8899dbd06bf

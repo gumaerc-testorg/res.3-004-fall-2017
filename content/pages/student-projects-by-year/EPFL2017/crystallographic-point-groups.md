@@ -1,7 +1,10 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: "2017 l'\xC9cole polytechnique f\xE9d\xE9rale de Lausanne (EPFL) Student\
   \ Projects"
+parent_type: SupplementalResourceSection
 parent_uid: 172a9af2-383b-aa0a-4e10-2ef1208f2781
 title: A Visualisation of Crystallographic Point Groups
 uid: cf909029-5d0d-c3b0-e34b-2d3b2cfa961d

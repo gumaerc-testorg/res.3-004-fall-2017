@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Student Projects by Topic
+parent_type: SupplementalResourceSection
 parent_uid: f62d5df8-3934-2533-e022-8b16ea71313c
 title: Energetics and Thermodynamics
 uid: e9e09d16-84ed-ad0e-c124-bfc6f520e5af

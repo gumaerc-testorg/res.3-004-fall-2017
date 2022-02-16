@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: SupplementalResourceSection
 title: Student Projects by Year
 uid: 912fc084-9e83-2bfd-38af-df58a71a8917
 ---

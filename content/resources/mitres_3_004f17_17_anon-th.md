@@ -1,12 +1,17 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-3-004-visualizing-materials-science-fall-2017/d8455cc0da7310fb579896705ee73b57_MITRES_3_004F17_17_anon-th.jpg
+file: /media/courses/res-3-004-visualizing-materials-science-fall-2017/d8455cc0da7310fb579896705ee73b57_MITRES_3_004F17_17_anon-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Projects
+ocw_type: OCWImage
+parent_title: Student Projects by Year
+parent_type: SupplementalResourceSection
 resourcetype: Image
 title: MITRES_3_004F17_17_anon-th.jpg
 uid: d8455cc0-da73-10fb-5798-96705ee73b57

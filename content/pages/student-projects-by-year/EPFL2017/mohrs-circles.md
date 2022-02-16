@@ -1,7 +1,10 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: "2017 l'\xC9cole polytechnique f\xE9d\xE9rale de Lausanne (EPFL) Student\
   \ Projects"
+parent_type: SupplementalResourceSection
 parent_uid: 172a9af2-383b-aa0a-4e10-2ef1208f2781
 title: Mohr's Circles
 uid: 3bd72664-ff7d-80b1-e95a-01dd7bd71eac

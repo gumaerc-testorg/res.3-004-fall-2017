@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: 2012 MIT Student Projects
+parent_type: SupplementalResourceSection
 parent_uid: 831df858-8530-1907-9c4d-adae1aacd80b
 title: Particle in a Tube
 uid: 97595714-9c9f-90f8-6eea-1a492674fe77

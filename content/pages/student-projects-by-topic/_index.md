@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Student Projects by Topic
 uid: f62d5df8-3934-2533-e022-8b16ea71313c
 ---

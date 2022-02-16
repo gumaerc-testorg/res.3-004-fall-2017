@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: 2012 MIT Student Projects
+parent_type: SupplementalResourceSection
 parent_uid: 831df858-8530-1907-9c4d-adae1aacd80b
 title: Spherical Distribution Problem
 uid: eba3f002-7eb2-a238-bcac-b770f342fa8f
