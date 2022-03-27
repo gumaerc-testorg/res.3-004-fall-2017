@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Quantum Time Evolution Using the Split Operator Fourier Transform Algorithm
   (English)
 uid: 7ce8daaf-baa8-daeb-3df4-6a5e9e95e101

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 2015 MIT Student Projects
 parent_type: SupplementalResourceSection
+parent_uid: c97327e3-f58e-5c5e-cfe5-c9199c8b02d5
 resourcetype: Other
 title: 2015_alsall.nb
 uid: 12f11b63-17ec-3ede-d04e-e10483eb4bae

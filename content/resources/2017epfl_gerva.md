@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Student Projects by Year
 parent_type: SupplementalResourceSection
+parent_uid: 912fc084-9e83-2bfd-38af-df58a71a8917
 resourcetype: Other
 title: 2017EPFL_gerva.nb
 uid: ce004f26-1faf-c4ce-3060-a8899dbd06bf

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Student Projects by Year
 parent_type: SupplementalResourceSection
+parent_uid: 912fc084-9e83-2bfd-38af-df58a71a8917
 resourcetype: Document
 title: 2017EPFL_anon2_supp.pdf
 uid: 6f0a55ec-79c3-bb82-1479-25e16b64ba36

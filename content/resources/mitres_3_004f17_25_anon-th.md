@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Student Projects by Year
 parent_type: SupplementalResourceSection
+parent_uid: 912fc084-9e83-2bfd-38af-df58a71a8917
 resourcetype: Image
 title: MITRES_3_004F17_25_anon-th.jpg
 uid: 98af2566-dbce-78d4-ca9e-3501b5080acf

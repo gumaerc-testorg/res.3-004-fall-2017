@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Student Projects by Year
 parent_type: SupplementalResourceSection
+parent_uid: 912fc084-9e83-2bfd-38af-df58a71a8917
 resourcetype: Other
 title: 2017EPFL_gonza.nb
 uid: b40cfd71-bf4f-2972-efe5-a553773e9d1a

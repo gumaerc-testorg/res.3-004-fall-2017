@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Student Projects by Year
 parent_type: SupplementalResourceSection
+parent_uid: 912fc084-9e83-2bfd-38af-df58a71a8917
 resourcetype: Other
 title: 2017EPFL_moral.nb
 uid: d9747cbb-2c3e-b11b-4c7d-0fca14d1129a

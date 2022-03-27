@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Creating Mathematica Functions to Determine Degree of Crystallinity from XRD
   Plots
 uid: 40249ddf-58da-8a97-8b3a-76cb1d160d5f

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Crystallography, a Visualisation Tool for CS, BCC and FCC Bravais Lattice Structures
 uid: 6ab6a81a-e921-cda4-7d92-d0fec6f0c33e
 video_files:

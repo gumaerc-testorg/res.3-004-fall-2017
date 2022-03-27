@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: A Basic and Fun Introduction to Crystalline Structures (English Version)
 uid: 42e6273d-1b7b-4f2f-3ed3-b719de9968ad
 video_files:
