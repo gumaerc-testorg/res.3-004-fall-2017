@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Example of a student project.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: 2012 MIT Student Projects
@@ -9,7 +10,7 @@ title: Hooke's Law in Cubic Solids
 uid: d81bc6cc-6217-d69c-e399-a1655dab00d2
 ---
 
-![Hooke's Law]({{< resource_file 9562e17d-81e8-c1e5-6b37-45954fcb4dfe >}})
+{{< resource 9562e17d-81e8-c1e5-6b37-45954fcb4dfe >}}
 
 Description
 -----------

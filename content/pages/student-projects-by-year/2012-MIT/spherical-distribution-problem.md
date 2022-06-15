@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Example of a student project.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: 2012 MIT Student Projects
@@ -9,7 +10,7 @@ title: Spherical Distribution Problem
 uid: eba3f002-7eb2-a238-bcac-b770f342fa8f
 ---
 
-![Spherical Distribution bar chart]({{< resource_file 4c2dd99e-b880-d86e-5550-48f8ab2aec71 >}})
+{{< resource 4c2dd99e-b880-d86e-5550-48f8ab2aec71 >}}
 
 Description
 -----------

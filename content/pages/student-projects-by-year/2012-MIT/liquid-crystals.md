@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'Example of a student project.  '
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: 2012 MIT Student Projects
@@ -9,7 +10,7 @@ title: Liquid Crystals
 uid: b5dea233-6156-a38d-6163-94417b1c3e7a
 ---
 
-![diagram of liquid crystal formation]({{< resource_file 7852c84e-9e54-0dd3-7808-d67705a68191 >}})
+{{< resource 7852c84e-9e54-0dd3-7808-d67705a68191 >}}
 
 Description
 -----------

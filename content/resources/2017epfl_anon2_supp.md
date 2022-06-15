@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-3-004-visualizing-materials-science-fall-2017/6f0a55ec79c3bb82147925e16b64ba36_2017EPFL_anon2_supp.pdf
+file: /courses/res-3-004-visualizing-materials-science-fall-2017/6f0a55ec79c3bb82147925e16b64ba36_2017EPFL_anon2_supp.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Example of a student project.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: 2012 MIT Student Projects
@@ -9,7 +10,7 @@ title: Mohr's Circle
 uid: 4c32642f-c268-8bbf-ea78-8c944f1362e3
 ---
 
-![cartoon stick figure holding a calculator and graph]({{< resource_file 589ace76-f054-0496-2a48-9eaa4108706a >}})
+{{< resource 589ace76-f054-0496-2a48-9eaa4108706a >}}
 
 Description
 -----------

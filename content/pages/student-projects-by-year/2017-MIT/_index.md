@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Student projects from MIT course 3.016 in 2017.
 learning_resource_types:
 - Projects
 ocw_type: SupplementalResourceSection
@@ -10,14 +11,14 @@ title: 2017 MIT Student Projects
 uid: faf869f8-afdd-f72b-42b0-a478ed652c8c
 ---
 
-![crystalinity from XRD plots]({{< resource_file 917dc406-3394-2f05-d8bc-188ab07df756 >}})[Creating Mathematica Functions to Determine Degree of Crystallinity from XRD Plots]({{< baseurl >}}/pages/student-projects-by-year/2017-MIT/creating-mathematica-functions-to-determine-degree-of-crystallinity-from-xrd-plots) (notebook & video)
+{{< resource 917dc406-3394-2f05-d8bc-188ab07df756 >}}{{% resource_link 16008342-73a2-b775-1ff9-03cbb187d4df "Creating Mathematica Functions to Determine Degree of Crystallinity from XRD Plots" %}} (notebook & video)
 
-![film rainbow visualization]({{< resource_file 11a8832e-37d7-4089-8944-2499b2f45e15 >}}) [Thin Film Rainbows]({{< baseurl >}}/pages/student-projects-by-year/2017-MIT/thin-film-rainbows) (notebook & video)
+{{< resource 11a8832e-37d7-4089-8944-2499b2f45e15 >}} {{% resource_link ffc5ef48-f9f9-f9b3-c011-e50cc6ed5797 "Thin Film Rainbows" %}} (notebook & video)
 
-![real space digram]({{< resource_file 0cb25e96-1247-a62a-df6a-7f81a3dbc1c7 >}}) [Real and Reciprocal Space in 2D and 3D]({{< baseurl >}}/pages/student-projects-by-year/2017-MIT/real-and-reciprocal-space-in-2d-and-3d) (notebook & video)
+{{< resource 0cb25e96-1247-a62a-df6a-7f81a3dbc1c7 >}} {{% resource_link a76134ed-4846-cae7-2d42-d67de4a5cb1f "Real and Reciprocal Space in 2D and 3D" %}} (notebook & video)
 
-![diamond diagram]({{< resource_file 1a3cabc4-2a0c-a20c-d897-19082b29a291 >}}) [Finding the Perfect Diamond: Why It's Impossible]({{< baseurl >}}/pages/student-projects-by-year/2017-MIT/finding-the-perfect-diamond-why-its-impossible) (notebook & video)
+{{< resource 1a3cabc4-2a0c-a20c-d897-19082b29a291 >}} {{% resource_link 7af90433-eb14-5b02-4b2b-76987e77d5a7 "Finding the Perfect Diamond: Why It's Impossible" %}} (notebook & video)
 
-![nanoparticles]({{< resource_file 5510e69a-bc0b-c2a0-3564-981b39893cd9 >}}) [Nanoparticle-polymer Network]({{< baseurl >}}/pages/student-projects-by-year/2017-MIT/nanoparticle-polymer-network) (notebook & video)
+{{< resource 5510e69a-bc0b-c2a0-3564-981b39893cd9 >}} {{% resource_link 1bd121e3-e26b-2e8c-07d2-2bfa7247724e "Nanoparticle-polymer Network" %}} (notebook & video)
 
-![screw dislocations]({{< resource_file f55fe6c8-caa1-d5f2-3957-e003a6806f63 >}}) [Visualizing the Energies of Screw Dislocations]({{< baseurl >}}/pages/student-projects-by-year/2017-MIT/visualizing-the-energies-of-screw-dislocations) (notebook & video)
+{{< resource f55fe6c8-caa1-d5f2-3957-e003a6806f63 >}} {{% resource_link b31d0675-6f6e-c950-0ff7-43879e4c98b7 "Visualizing the Energies of Screw Dislocations" %}} (notebook & video)

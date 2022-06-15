@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-3-004-visualizing-materials-science-fall-2017/f1d25e6fc4097eaec7973b4fdf5ee1b2_aOiW2XRxEcY.pdf
+file: /courses/res-3-004-visualizing-materials-science-fall-2017/f1d25e6fc4097eaec7973b4fdf5ee1b2_aOiW2XRxEcY.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

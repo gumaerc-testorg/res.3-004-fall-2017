@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Example of a student project.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: 2015 MIT Student Projects
@@ -11,13 +12,13 @@ uid: eed939a1-d84e-42a9-d907-e18a3daa9757
 
 Note that this project does not include video content.
 
-![reflection and refraction diagram]({{< resource_file 62d1630a-98c2-6674-8896-53ed9a7379bf >}})
+{{< resource 62d1630a-98c2-6674-8896-53ed9a7379bf >}}
 
 Description
 -----------
 
 This project explores reflection and refraction as phenomena based upon materials properties such as the refractive index.
 
-[The Fundamental Principles of Reflection and Refraction (NB)]({{< baseurl >}}/resources/2015_anon1)
+{{% resource_link 3afd8223-28d2-bc9d-d22f-04880c6de6af "The Fundamental Principles of Reflection and Refraction (NB)" %}}
 
 Courtesy MIT student.

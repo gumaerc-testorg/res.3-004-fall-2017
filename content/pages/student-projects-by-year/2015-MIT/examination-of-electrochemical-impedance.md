@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Example of a student project.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: 2015 MIT Student Projects
@@ -11,13 +12,13 @@ uid: 4dc08721-54c1-afa2-7af0-f47d45e865a0
 
 Note that this project does not include video content.
 
-![graphs of impedance parameters]({{< resource_file a98d9373-d290-1542-7566-04e26a60b8f4 >}})
+{{< resource a98d9373-d290-1542-7566-04e26a60b8f4 >}}
 
 Description
 -----------
 
 This notebook contains code that allows users to build and visualize AC circuits and examines the use of Nyquist plots in characterizing them.
 
-[Examination of Electrochemical Impedance (NB)]({{< baseurl >}}/resources/2015_anon4)
+{{% resource_link ead48779-4132-bf91-a7a6-e8c20f37486a "Examination of Electrochemical Impedance (NB)" %}}
 
 Courtesy MIT student.

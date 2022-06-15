@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Example of a student project.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: 2017 MIT Student Projects
@@ -10,14 +11,14 @@ title: Creating Mathematica Functions to Determine Degree of Crystallinity from 
 uid: 16008342-73a2-b775-1ff9-03cbb187d4df
 ---
 
-![XRD plots of crystallinity]({{< resource_file f9494f94-241d-9216-11ed-097187d1eba5 >}})
+{{< resource f9494f94-241d-9216-11ed-097187d1eba5 >}}
 
 Description
 -----------
 
 This video describes a method for determining degree of crystallinity of semicrystalline polymers from XRD patterns using Mathematica. It outlines how to manually fit XRD patterns with Gaussian peaks and how to best fit function to data.
 
-[Degree of Crystallinity from XRD Plots (NB)]({{< baseurl >}}/resources/2017_anon1)
+{{% resource_link 50f9acab-5f45-d843-96ee-675dc37e3247 "Degree of Crystallinity from XRD Plots (NB)" %}}
 
 {{< resource 40249ddf-58da-8a97-8b3a-76cb1d160d5f >}}
 

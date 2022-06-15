@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-3-004-visualizing-materials-science-fall-2017/12f11b6317ec3eded04ee10483eb4bae_2015_alsall.nb
+file: /courses/res-3-004-visualizing-materials-science-fall-2017/12f11b6317ec3eded04ee10483eb4bae_2015_alsall.nb
 file_type: application/mathematica
 learning_resource_types: []
 ocw_type: OCWFile

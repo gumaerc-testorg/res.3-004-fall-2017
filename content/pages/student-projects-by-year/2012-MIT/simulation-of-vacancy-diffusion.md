@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Example of a student project.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: 2012 MIT Student Projects
@@ -9,7 +10,7 @@ title: Simulation of Vacancy Diffusion
 uid: 0e5fd4fb-f523-e986-5d9f-f051ce3d625b
 ---
 
-![vacancy diffusion visualization]({{< resource_file 7090dab8-0cbe-3d02-4a35-6bdc36fbbe18 >}})
+{{< resource 7090dab8-0cbe-3d02-4a35-6bdc36fbbe18 >}}
 
 Description
 -----------

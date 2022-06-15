@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Example of a student project.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: 2012 MIT Student Projects
@@ -9,7 +10,7 @@ title: Particle in a Tube
 uid: 97595714-9c9f-90f8-6eea-1a492674fe77
 ---
 
-![particle in a tube visualization]({{< resource_file f021a38c-22db-4e82-1dd2-9dbfbcb9d8ba >}})
+{{< resource f021a38c-22db-4e82-1dd2-9dbfbcb9d8ba >}}
 
 Description
 -----------

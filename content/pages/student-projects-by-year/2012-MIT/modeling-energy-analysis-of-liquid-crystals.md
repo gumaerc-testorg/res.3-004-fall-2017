@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Example of a student project.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: 2012 MIT Student Projects
@@ -9,7 +10,7 @@ title: Modeling & Energy Analysis of Liquid Crystals
 uid: e6790370-a186-7a2c-6297-fed449a26281
 ---
 
-![MITRES_3_004F17_4_javed.jpg]({{< resource_file b2cc47aa-9060-f7f6-a80e-837208f64c7e >}})
+{{< resource b2cc47aa-9060-f7f6-a80e-837208f64c7e >}}
 
 Description
 -----------

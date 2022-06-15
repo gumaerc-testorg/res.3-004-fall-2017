@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-3-004-visualizing-materials-science-fall-2017/bd0bd555b4344bea215247e5adc68418_2017EPFL_burnand.nb
+file: /courses/res-3-004-visualizing-materials-science-fall-2017/bd0bd555b4344bea215247e5adc68418_2017EPFL_burnand.nb
 file_type: application/mathematica
 learning_resource_types:
 - Projects

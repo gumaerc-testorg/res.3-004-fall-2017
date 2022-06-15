@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Example of a student project.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: 2015 MIT Student Projects
@@ -11,13 +12,13 @@ uid: 8021bccc-0fd5-35a1-e632-449762049b4f
 
 Note that this project does not include video content.
 
-![watershed transformation visualization]({{< resource_file 53f89a40-2d56-dcfb-1667-655302dfc012 >}})
+{{< resource 53f89a40-2d56-dcfb-1667-655302dfc012 >}}
 
 Description
 -----------
 
 Advanced image processing is not beyond reach for even the novice programmer, and this notebook looks to introduce individuals to one of many advanced image processing concepts.
 
-[Image Processing Using the Watershed Transformation (NB)]({{< baseurl >}}/resources/2015_sun)
+{{% resource_link 19670859-f37e-6b31-11f5-69bc514d30ce "Image Processing Using the Watershed Transformation (NB)" %}}
 
 Courtesy of Jessica H. Sun.
