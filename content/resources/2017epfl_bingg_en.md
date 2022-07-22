@@ -5,6 +5,7 @@ file: /courses/res-3-004-visualizing-materials-science-fall-2017/6563f9bd0c3722b
 file_type: application/mathematica
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Student Projects by Year
 parent_type: SupplementalResourceSection

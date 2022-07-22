@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Student Projects by Year
 parent_type: SupplementalResourceSection
@@ -18,4 +19,3 @@ title: MITRES_3_004F17_29_ruza.jpg
 uid: 3754bece-daea-4781-5700-7d01ce1f312e
 ---
 New image Upload
-

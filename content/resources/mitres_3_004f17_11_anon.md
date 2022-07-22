@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Student Projects by Year
 parent_type: SupplementalResourceSection
@@ -18,4 +19,3 @@ title: MITRES_3_004F17_11_anon.jpg
 uid: 0a5a0a73-84b6-cc48-8fd7-3c9859a63625
 ---
 New image Upload
-

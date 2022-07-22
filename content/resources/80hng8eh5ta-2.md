@@ -4,6 +4,7 @@ description: ''
 file: /courses/res-3-004-visualizing-materials-science-fall-2017/867e0c4050f65866a8f77a0e7cc088fc_80hnG8EH5tA.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

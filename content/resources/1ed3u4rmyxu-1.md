@@ -4,6 +4,7 @@ description: ''
 file: /courses/res-3-004-visualizing-materials-science-fall-2017/5fc0404eca2be23789e5468985f70199_1Ed3U4rmyXU.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
