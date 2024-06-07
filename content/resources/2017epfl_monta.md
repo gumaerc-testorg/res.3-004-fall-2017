@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-3-004-visualizing-materials-science-fall-2017/71f79a83a192f9a7fc19b3536461881a_2017EPFL_monta.nb
+file_size: 21713
 file_type: application/mathematica
 learning_resource_types:
 - Projects

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-3-004-visualizing-materials-science-fall-2017/12f11b6317ec3eded04ee10483eb4bae_2015_alsall.nb
+file_size: 1144866
 file_type: application/mathematica
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
