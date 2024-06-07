@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/res-3-004-visualizing-materials-science-fall-2017/348db22e86500ae7782b0c9cc3d8964f_MITRES_3_004F17_12_anon-th.jpg
+file_size: 19234
 file_type: image/jpeg
 image_metadata:
   caption: ''

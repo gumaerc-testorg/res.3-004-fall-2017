@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-3-004-visualizing-materials-science-fall-2017/f6a8ba36db5d847c26c00c570b6b3bbe_Tj3Hpf_HMk4.srt
+file_size: 8988
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
