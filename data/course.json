@@ -30,9 +30,10 @@
     "website": "res-3-004-visualizing-materials-science-fall-2017"
   },
   "course_title": "Visualizing Materials Science",
+  "hide_download": false,
   "course_description": "This resource is a collection of student tutorial videos that explore various materials science and engineering topics using visualizations in the Wolfram Mathematica programming system.\n",
   "department_numbers": [
-    "RES"
+    "3"
   ],
   "extra_course_numbers": "",
   "primary_course_number": "RES.3-004",
