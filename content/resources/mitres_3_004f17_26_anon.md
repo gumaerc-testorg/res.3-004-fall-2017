@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/res-3-004-visualizing-materials-science-fall-2017/8dd67b7f895c5e416cbd00182d66c757_MITRES_3_004F17_26_anon.jpg
+file: /ol-ocw-studio-app/courses/res-3-004-visualizing-materials-science-fall-2017/8dd67b7f895c5e416cbd00182d66c757_MITRES_3_004F17_26_anon.jpg
 file_size: 69302
 file_type: image/jpeg
 image_metadata:

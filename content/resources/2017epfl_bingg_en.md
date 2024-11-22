@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-3-004-visualizing-materials-science-fall-2017/6563f9bd0c3722be4d4ac2a5c2669719_2017EPFL_bingg_EN.nb
+file: /ol-ocw-studio-app/courses/res-3-004-visualizing-materials-science-fall-2017/6563f9bd0c3722be4d4ac2a5c2669719_2017EPFL_bingg_EN.nb
 file_size: 376195
 file_type: application/mathematica
 learning_resource_types:

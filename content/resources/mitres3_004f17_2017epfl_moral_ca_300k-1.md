@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-3-004-visualizing-materials-science-fall-2017/966c13d6414b1e859173139ac6e978ce_MITRES3_004F17_2017EPFL_moral_ca_300k.pdf
+file: /ol-ocw-studio-app/courses/res-3-004-visualizing-materials-science-fall-2017/966c13d6414b1e859173139ac6e978ce_MITRES3_004F17_2017EPFL_moral_ca_300k.pdf
 file_size: 54614
 file_type: application/pdf
 learning_resource_types: []
