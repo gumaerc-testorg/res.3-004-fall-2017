@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/res-3-004-visualizing-materials-science-fall-2017/1c1737e1bfc154838722f06fab5a1faf_o96K8fkOrG8.vtt
+file: /courses/res-3-004-visualizing-materials-science-fall-2017/1c1737e1bfc154838722f06fab5a1faf_o96K8fkOrG8.vtt
 file_size: 20647
 file_type: application/x-subrip
 learning_resource_types: []
